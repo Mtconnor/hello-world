@@ -1,2 +1,2 @@
 # hello-world
-hello,world!(nothing to see here,move)
+hello,world!(nothing to see here,move along)
